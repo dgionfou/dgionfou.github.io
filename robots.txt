@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dgionfou.github.io/sitemap.dgionfou.gz
+Sitemap: https://dgionfou.github.io/app/sitemap.dgionfou.gz
+Sitemap: https://dgionfou.github.io/assets/sitemap.dgionfou.gz
+Sitemap: https://dgionfou.github.io/css/sitemap.dgionfou.gz
+Sitemap: https://dgionfou.github.io/data/sitemap.dgionfou.gz
+Sitemap: https://dgionfou.github.io/includes/sitemap.dgionfou.gz
+Sitemap: https://dgionfou.github.io/item/sitemap.dgionfou.gz
+Sitemap: https://dgionfou.github.io/src/sitemap.dgionfou.gz
